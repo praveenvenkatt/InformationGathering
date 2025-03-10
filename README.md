@@ -57,10 +57,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## nmap :
+![{0B3C0F2E-9015-4ED4-A1EA-506D5A49D7DD}](https://github.com/user-attachments/assets/3cfbacc5-ba55-4e27-9aaf-37c32acf5968)
 
-
-
-![Screenshot 2024-09-16 115148](https://github.com/user-attachments/assets/ba99da48-c8cf-4520-b146-4e947dad3c40)
 
 
 ## whatweb :

@@ -40,10 +40,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## ping command :
-![Screenshot 2024-09-16 111017](https://github.com/user-attachments/assets/de7ee3da-b6db-49bb-bba8-41f3ebc154c8)
+![Screenshot 2025-03-10 113145](https://github.com/user-attachments/assets/61649992-1fec-4c62-be09-ee2d6256e77f)
+
+
 
 ## whois :
-![Screenshot 2024-09-16 111035](https://github.com/user-attachments/assets/09bdc913-d0b6-44d5-a599-ccb33a2cba48)
+![Screenshot 2025-03-10 113219](https://github.com/user-attachments/assets/5703d5be-0855-44f6-9992-c1b78ca2129e)
+
 
 
 

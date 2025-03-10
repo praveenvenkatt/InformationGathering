@@ -30,15 +30,14 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## Finding Hosting Company :
 ![Screenshot 2025-03-07 134454](https://github.com/user-attachments/assets/46baa95f-781d-4a46-bac6-f8a6ebe34544)
 
-![Screenshot 2024-09-16 110110](https://github.com/user-attachments/assets/de66b8a5-9902-4539-b45e-7e7f8deda130)
 
 
 
 
 ## History of the website :
+![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/61bd2da3-f5bf-4bed-a206-c45d5254ba00)
 
 
-![Screenshot 2024-09-16 110323](https://github.com/user-attachments/assets/96e14497-8186-4184-91d8-7556ae8e93c7)
 
 ## ping command :
 ![Screenshot 2024-09-16 111017](https://github.com/user-attachments/assets/de7ee3da-b6db-49bb-bba8-41f3ebc154c8)

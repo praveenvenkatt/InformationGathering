@@ -76,7 +76,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## ICMP traceroute :
-![Screenshot 2024-09-16 120838](https://github.com/user-attachments/assets/27775706-a85a-4abb-89a2-60e242a02440)
+![Screenshot 2025-03-10 114031](https://github.com/user-attachments/assets/bf0adcd0-25c6-4798-a433-44004d625fd9)
+
 
 
 

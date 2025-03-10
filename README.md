@@ -25,13 +25,10 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## whois:
-
-
-
-
-![Screenshot 2024-09-16 104320](https://github.com/user-attachments/assets/781e8d64-33e4-4d84-a3b5-2573967bcf40)
+![Screenshot 2025-03-07 134502](https://github.com/user-attachments/assets/b1b7264a-00b6-4cc2-bd2b-58f0f050d130)
 
 ## Finding Hosting Company :
+![Screenshot 2025-03-07 134454](https://github.com/user-attachments/assets/46baa95f-781d-4a46-bac6-f8a6ebe34544)
 
 ![Screenshot 2024-09-16 110110](https://github.com/user-attachments/assets/de66b8a5-9902-4539-b45e-7e7f8deda130)
 

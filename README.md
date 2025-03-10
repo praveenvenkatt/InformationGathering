@@ -64,7 +64,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## whatweb :
-![Screenshot 2024-09-16 115357](https://github.com/user-attachments/assets/078d08b7-a266-47c4-bc95-9aa3ca907696)
+![{43720B55-44D3-48A9-B467-80FA87712F86}](https://github.com/user-attachments/assets/91d2a083-a333-4bf9-9e90-7cfe0640b9f7)
+
 
 
 

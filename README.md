@@ -83,10 +83,12 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## TCP traceroute :
-![Screenshot 2024-09-16 121015](https://github.com/user-attachments/assets/e4724bf1-543f-4c68-a0c8-925f085f8bb8)
+![Screenshot 2025-03-10 114142](https://github.com/user-attachments/assets/c865802a-96d5-4412-be78-ca40c08d6cf4)
+
 
 ## UDP traceroute :
-![image](https://github.com/user-attachments/assets/328d385c-1e4b-4a4f-a729-a334be6e2aed)
+![{510AF13A-950D-46F4-BA9F-977B1DF43D25}](https://github.com/user-attachments/assets/7b4f7d85-be2b-4221-afed-2ee39d3c3ecb)
+
 
 
 

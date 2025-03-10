@@ -69,7 +69,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 ## httprint :
 
-![Screenshot 2024-09-16 120421](https://github.com/user-attachments/assets/0bae6c46-7f4d-4deb-8be1-4d8130d17b88)
+![{5C1999C2-BF9F-4AC4-85D4-255025ADC55C}](https://github.com/user-attachments/assets/2ae99f08-eb21-4104-bb28-15d2eef74325)
+
 
 
 

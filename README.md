@@ -53,7 +53,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## netcat :
-![{18CEB213-50D4-4645-BD4F-EF7E9F303B0C}](https://github.com/user-attachments/assets/aa01feb0-b8f2-471a-89d9-00c8e33000ec)
+![{CCD186DD-FDC8-4BB8-8A83-154D069B6756}](https://github.com/user-attachments/assets/4899cc28-0cd2-4d78-a5cb-f6042c01a766)
+
 
 
 

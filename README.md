@@ -53,9 +53,9 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## netcat :
+![{18CEB213-50D4-4645-BD4F-EF7E9F303B0C}](https://github.com/user-attachments/assets/aa01feb0-b8f2-471a-89d9-00c8e33000ec)
 
 
-![Screenshot 2024-09-16 114928](https://github.com/user-attachments/assets/11364b4f-350e-47eb-83d9-ae92a4b0d641)
 
 
 ## nmap :

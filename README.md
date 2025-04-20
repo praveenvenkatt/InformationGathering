@@ -1,13 +1,13 @@
 # EX 2: INFORMATIONGATHERING
 
+# AIM:
+
+To perform information gathering techniques using kali linux 
+
 ```
 Register Number:212222040121
 Name: Praveen V
 ```
-
-# AIM:
-
-To perform information gathering techniques using kali linux 
 
 ## STEPS:
 

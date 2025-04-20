@@ -1,9 +1,9 @@
-#EX 2: INFORMATIONGATHERING
-Information Gathering Techiques
+# EX 2: INFORMATIONGATHERING
 
-# To perform information gathering techniques
-# Register Number:212222040121
-# Name: Praveen V
+```
+Register Number:212222040121
+Name: Praveen V
+```
 
 # AIM:
 

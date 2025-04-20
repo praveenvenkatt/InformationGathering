@@ -1,4 +1,4 @@
-# InformationGathering
+#EX 2: INFORMATIONGATHERING
 Information Gathering Techiques
 
 # To perform information gathering techniques
